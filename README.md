@@ -11,7 +11,7 @@ ERROR: R: See help("Defunct")
 ERROR: Execution error as noted previously. (rc=1000)
 
 
-To (maybe very few) people who want to run r inside of sas, this short code trunk provides an alternative way for loading dataset from sas to r.
+To (maybe very few) people who want to run r inside of sas, this short code provides an alternative way for loading dataset from sas to r.
 
 by: 
 1. get the folder location
